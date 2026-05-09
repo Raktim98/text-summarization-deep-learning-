@@ -4,12 +4,3 @@ The model is trained on textual datasets to understand sentence structure, conte
 
 
 
-Text-Summarization-Using-Deep-Learning/
-│
-├── static/
-├── templates/
-├── model/
-├── app.py
-├── train.py
-├── requirements.txt
-└── README.md
